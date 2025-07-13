@@ -1,2 +1,2 @@
 # html-portfolio
-This is my first wepsite with webpages from udemy
+This is my first website with webpages from udemy
